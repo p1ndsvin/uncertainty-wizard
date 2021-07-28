@@ -53,7 +53,7 @@ In addition, as uncertainty wizard has a 100% docstring coverage on public metho
 your IDE will be able to provide you with a good amount of docs out of the box.
 
 You may also want to check out the technical tool paper [(preprint)](https://arxiv.org/abs/2101.00982),
-describing uncertainty wizard functionality and api as of version `v0.1.0`.
+describing uncertainty wizard functionality and API as of version `v0.1.0`.
 
 #### Examples
 A set of small and easy examples, perfect to get started can be found in the 
@@ -86,10 +86,10 @@ If you use it for your research, please cite these papers:
     }  
 
 The first paper [(preprint)](https://arxiv.org/abs/2102.00902) provides 
-an empricial study comparing the approaches implemented in uncertainty wizard,
+an empirical study comparing the approaches implemented in uncertainty wizard,
 and a list of lessons learned useful for reasearchers working with uncertainty wizard.
 The second paper [(preprint)](https://arxiv.org/abs/2101.00982) is a technical tool paper,
- providing a more detailed discussion of uncertainty wizards api and implementation.
+ providing a more detailed discussion of uncertainty wizard's API and implementation.
 
 References to the original work introducing the techniques implemented 
 in uncertainty wizard are provided in the papers listed above.
@@ -97,5 +97,5 @@ in uncertainty wizard are provided in the papers listed above.
 #### Contributing
 Issues and PRs are welcome! Before investing a lot of time for a PR, please open an issue first, describing your contribution.
 This way, we can make sure that the contribution fits well into this repository.
-We also mark issues which are great to start contributing as as [good first issues](https://github.com/testingautomated-usi/uncertainty-wizard/contribute).
+We also mark issues which are great to start contributing as [good first issues](https://github.com/testingautomated-usi/uncertainty-wizard/contribute).
 If you want to implement an existing issue, don't forget to comment on it s.t. everyone knows that you are working on it.
